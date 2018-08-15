@@ -1,4 +1,4 @@
-//https://app.codility.com/demo/results/trainingRF4N52-M5G/
+// https://app.codility.com/demo/results/trainingRF4N52-M5G/
 package solution
 
 func Solution(A []int) int {
