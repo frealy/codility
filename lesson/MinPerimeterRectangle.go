@@ -7,7 +7,7 @@ func Min(a, b int) int {
 	return b
 }
 func Solution(N int) int {
-	min := 1000000000
+	min := 1000000000000
 	i := 1
 	for i*i <= N {
 		if N%i == 0 {
