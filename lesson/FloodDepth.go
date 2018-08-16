@@ -1,4 +1,4 @@
-// https://app.codility.com/demo/results/training3NGBSY-JWJ/
+// https://app.codility.com/demo/results/training7W3PT7-TU5/
 package solution
 
 func Max(a, b int) int {
