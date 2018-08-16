@@ -1,3 +1,4 @@
+// https://app.codility.com/demo/results/training3NGBSY-JWJ/
 package solution
 
 import "strings"
